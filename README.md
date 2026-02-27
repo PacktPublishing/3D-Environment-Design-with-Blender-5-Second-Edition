@@ -20,7 +20,7 @@ Abdelilah Hamdani</p>
 <details open> 
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/en-us/product/3d-environment-design-with-blender-5-second-edition/9781836203292">
-<img src="https://content.packt.com/B31446/cover_image_small.jpg" alt="3D Environment Design with Blender 5, Second Edition" height="256px" align="right">
+<img src="cover.png" alt="3D Environment Design with Blender 5, Second Edition" height="256px" align="right">
 </a>
 
 Creating photorealistic 3D scenes in Blender can be tricky sometimes due to modeling inaccuracies, scale issues, flat materials, and lighting that fails to match real-world references. These problems can make scenes look artificial and inconsistent.
